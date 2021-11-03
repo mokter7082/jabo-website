@@ -1,0 +1,26 @@
+.myCart {
+  background-color: bisque;
+  border-radius: 45px 15px;
+  height: 150px;
+}
+.road {
+  height: 500px;
+  width: 100%;
+}
+.footer {
+  background-color: #636e72;
+  padding: 30px;
+  color: #fff;
+}
+.logo {
+  height: 30px;
+}
+.navBtn {
+  margin: 10px;
+  border-radius: 22px 36px;
+}
+.navBtn:hover {
+  background-color: rgb(241, 179, 102);
+  margin: 10px;
+  border-radius: 26px 36px;
+}
